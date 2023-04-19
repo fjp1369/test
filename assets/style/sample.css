@@ -1,0 +1,46 @@
+.ali-left {
+  position: absolute;
+  left: 10px;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#navbarColor02 {
+  margin: 0px;
+  padding: 0px;
+}
+
+li.nav-item > a {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.navbar {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 9px;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar-nav {
+  padding: 0px;
+  margin: 0px;
+}
+
+@font-face {
+  font-family: nassim-bold;
+  src: url(../font/font/nassim-bold.ttf);
+}
+.container {
+  padding: 0px;
+  margin: 0px;
+}
